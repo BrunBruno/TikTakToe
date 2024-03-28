@@ -1,0 +1,24 @@
+X:\Projekty\C# Projects\MVC Project\MVCProject.Domain\bin\Debug\net7.0\MVCProject.Domain.deps.json
+X:\Projekty\C# Projects\MVC Project\MVCProject.Domain\bin\Debug\net7.0\MVCProject.Domain.dll
+X:\Projekty\C# Projects\MVC Project\MVCProject.Domain\bin\Debug\net7.0\MVCProject.Domain.pdb
+X:\Projekty\C# Projects\MVC Project\MVCProject.Domain\obj\Debug\net7.0\MVCProject.Domain.csproj.AssemblyReference.cache
+X:\Projekty\C# Projects\MVC Project\MVCProject.Domain\obj\Debug\net7.0\MVCProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+X:\Projekty\C# Projects\MVC Project\MVCProject.Domain\obj\Debug\net7.0\MVCProject.Domain.AssemblyInfoInputs.cache
+X:\Projekty\C# Projects\MVC Project\MVCProject.Domain\obj\Debug\net7.0\MVCProject.Domain.AssemblyInfo.cs
+X:\Projekty\C# Projects\MVC Project\MVCProject.Domain\obj\Debug\net7.0\MVCProject.Domain.csproj.CoreCompileInputs.cache
+X:\Projekty\C# Projects\MVC Project\MVCProject.Domain\obj\Debug\net7.0\MVCProject.Domain.dll
+X:\Projekty\C# Projects\MVC Project\MVCProject.Domain\obj\Debug\net7.0\refint\MVCProject.Domain.dll
+X:\Projekty\C# Projects\MVC Project\MVCProject.Domain\obj\Debug\net7.0\MVCProject.Domain.pdb
+X:\Projekty\C# Projects\MVC Project\MVCProject.Domain\obj\Debug\net7.0\ref\MVCProject.Domain.dll
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Domain\bin\Debug\net7.0\MVCProject.Domain.deps.json
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Domain\bin\Debug\net7.0\MVCProject.Domain.dll
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Domain\bin\Debug\net7.0\MVCProject.Domain.pdb
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Domain\obj\Debug\net7.0\MVCProject.Domain.csproj.AssemblyReference.cache
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Domain\obj\Debug\net7.0\MVCProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Domain\obj\Debug\net7.0\MVCProject.Domain.AssemblyInfoInputs.cache
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Domain\obj\Debug\net7.0\MVCProject.Domain.AssemblyInfo.cs
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Domain\obj\Debug\net7.0\MVCProject.Domain.csproj.CoreCompileInputs.cache
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Domain\obj\Debug\net7.0\MVCProject.Domain.dll
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Domain\obj\Debug\net7.0\refint\MVCProject.Domain.dll
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Domain\obj\Debug\net7.0\MVCProject.Domain.pdb
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Domain\obj\Debug\net7.0\ref\MVCProject.Domain.dll

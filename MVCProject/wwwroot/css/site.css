@@ -1,0 +1,130 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #333;
+    color: #fff;
+    margin: 0;
+}
+
+body::-webkit-scrollbar {
+    width: 0;
+}
+
+.main-bg {
+    background-color: #5f3dc4;
+    color: #fff;
+}
+
+.main-btn {
+    background-color: #5f3dc4;
+    color: #fff;
+    font-weight: bold;
+    padding: 0.6rem 1.2rem;
+    font-size: 1.2rem;
+    border: none;
+}
+.main-btn:hover {
+    background-color: #6741d9;
+    color: #fff;
+}
+.main-btn:focus {
+    border: none;
+    box-shadow: 0 0 0 0.25rem rgba(103, 65, 217, 0.5);
+}
+.light-btn {
+    background-color: #845ef7;
+    color: #fff;
+    font-weight: bold;
+    padding: 0.6rem 1.2rem;
+    font-size: 1.2rem;
+    border: none;
+}
+.light-btn:hover {
+    background-color: #9775fa;
+    color: #fff;
+}
+.light-btn:focus {
+    border: none;
+    box-shadow: 0 0 0 0.25rem rgba(151, 117, 250, 0.5);
+}
+
+.danger-btn {
+    background-color: #dc3545;
+    color: #fff;
+    font-weight: bold;
+    padding: 0.6rem 1.2rem;
+    font-size: 1.2rem;
+    border: none;
+}
+.danger-btn:hover {
+    background-color: #cb2434;
+    color: #fff;
+}
+.danger-btn:focus{
+    border: none;
+    box-shadow: 0 0 0 0.25rem rgba(203, 36, 52, 0.5);
+}
+
+.toggle-btn {
+    background-color: #845ef7;
+    color: #fff;
+    font-weight: bold;
+    padding: 0.2rem 0.4rem;
+    font-size: 1rem;
+    border: none;
+}
+.toggle-btn:active {
+    color: #fff;
+    border: none;
+    box-shadow: 0 0 0 0.1rem rgba(151, 117, 250, 0.5);
+}
+.toggle-btn:focus {
+    color: #fff;
+    border: none;
+    box-shadow: 0 0 0 0.1rem rgba(151, 117, 250, 0.5);
+}
+
+@media(min-width: 576px) {
+    .toggle-btn {
+        display: none;
+    }
+}
+
+.logout-btn {
+    background-color: #845ef7;
+    color: #fff;
+    font-weight: bold;
+    padding: 0.2rem 0.4rem;
+    font-size: 1rem;
+    border: none;
+    width: auto;
+    height: auto;
+    aspect-ratio: 1/1;
+    padding-bottom: 0.3rem;
+}
+
+.logout-btn:active {
+    color: #fff;
+    border: none;
+    box-shadow: 0 0 0 0.1rem rgba(151, 117, 250, 0.5);
+}
+
+.logout-btn:focus {
+    color: #fff;
+    border: none;
+    box-shadow: 0 0 0 0.1rem rgba(151, 117, 250, 0.5);
+}

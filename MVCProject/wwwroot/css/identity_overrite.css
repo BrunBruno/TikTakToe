@@ -1,0 +1,85 @@
+﻿.nav .nav-link {
+    color: #aaa;
+}
+
+.nav .nav-link.active {
+    background-color: #5f3dc4;
+    color: #fff;
+}
+
+
+.form-floating .form-control {
+    background-color: #eee;
+    border: none;
+    box-shadow: none;
+    transition: box-shadow 0.3s ease-in-out;
+}
+    .form-floating .form-control:focus {
+        box-shadow: 0 0 0.5rem #5f3dc4;
+    }
+.form-floating label {
+    color: #999;
+}
+
+.btn-primary {
+    background-color: #5f3dc4;
+    border: none;
+}
+.btn-primary:hover {
+    background-color: #6741d9
+}
+
+/*????*/
+.col-md-6 p:nth-child(2),
+.col-md-6 p:last-child,
+.col-md-6 #download-data {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.col-md-6 #download-data {
+    vertical-align: middle;
+}
+
+a {
+    color: #aaa;
+    text-decoration: none;
+}
+a:hover {
+    color: #5f3dc4;
+    text-decoration: underline;
+}
+
+.form-check-input:focus {
+    box-shadow: none;
+}
+.form-check-input:checked {
+    background-color: #5f3dc4;
+    border: none;
+}
+
+#login-submit {
+    margin-bottom: 1rem;
+}
+
+#account h2 {
+    font-size: 1.5rem;
+}
+#account div p {
+    margin: 0;
+}
+
+#registerForm h2 {
+    font-size: 1.5rem;
+}
+#email-verification {
+    width: 100%;
+    margin-top: 5%;
+    color: #fff;
+    background-color: #5f3dc4;
+    text-decoration: none;
+}
+
+#registerSubmit {
+    margin-bottom: 5%;
+}

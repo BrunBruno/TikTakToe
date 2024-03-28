@@ -1,0 +1,21 @@
+﻿@model IEnumerable<MVCProject.Domain.Entities.Player>
+@{
+    ViewData["Title"] = "Ranking";
+}
+
+<link href="~/css/game.css" rel="stylesheet" />
+
+<div class="ranking">
+    @{var i = 0;}
+    @foreach (var item in Model) {
+            <div class="card m-3 main-bg">
+                <div class="card-body row">
+                    <h3 class="col-md-1">@i.</h3>
+                    <h3 class="col-md-5">User: @item.Name!.Split('@')[0] </h3>
+                    <h3 class="col-md-3">Games Won: @item.GameWon</h3>
+                    <h3 class="col-md-3">Games Played: @item.GamePlayed</h3>
+                </div>
+            </div>
+            i++;
+    }
+</div>

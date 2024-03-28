@@ -1,0 +1,40 @@
+.main-navbar[b-9dt8y0iu99] {
+    background-color: #5f3dc4;
+    border-bottom: solid 0.3rem #7048e8;
+}
+a.navbar-brand[b-9dt8y0iu99] {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+.nav-item[b-9dt8y0iu99] {
+    border-radius: 0.5rem;
+}
+
+@media(max-width: 576px) {
+    .nav-item[b-9dt8y0iu99] {
+        padding: 0 1rem;
+    }
+}
+.nav-item:hover[b-9dt8y0iu99] {
+   color: #AAA;
+}
+.active[b-9dt8y0iu99] {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.navbar-toggler:focus[b-9dt8y0iu99] {
+    outline: none;
+    box-shadow: none;
+}
+
+.footer[b-9dt8y0iu99] {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    color: #aaa;
+    margin: 0;
+    padding: 0;
+}

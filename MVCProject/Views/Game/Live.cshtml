@@ -1,0 +1,192 @@
+﻿@model MVCProject.Domain.Entities.Game
+
+@{
+    ViewData["Title"] = "TicTacToe";
+}
+
+<link rel="stylesheet" href="~/css/game.css" />
+
+@section Scripts {
+    <script src="~/lib/aspnet/signalr/dist/browser/signalr.js"></script>
+    <script src="~/lib/aspnet/signalr/dist/browser/signalr.min.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            let end = false;
+            let pause = false;
+
+            $(".box").prop("disabled", true);
+            $(".cover").click(() => {
+                displayMessage("<p> Wait for opponent. <p>", 1000);
+            });
+
+            const connection = new signalR.HubConnectionBuilder().withUrl("/GameHub").build();
+
+            connection.start().then(() => {
+                for (let i = 0; i < 9; i++) {
+                    $("#board").append("<div class='box' id='box" + i + "'></div>");
+                }
+
+                connection.invoke("JoinGame", @Html.Raw(Json.Serialize(Model))).catch(function (err) {
+                    console.error(err);
+                });
+
+                adjustBoard();
+                setFontSizeToHeight();
+            });
+
+            connection.on("GameFull", () => {
+                window.location.href = "/Game/Index";
+            });
+
+              
+            connection.on("GameRejoined", (gameId, status) => {
+                $("#board").find(".cover").remove();
+                prepareGame(gameId, status);
+                displayBoard(status);
+            });
+
+            connection.on("GameStarted", (gameId, status) => {
+                $("#board").find(".cover").remove();
+                prepareGame(gameId, status);
+                displayBoard(status);
+            });
+
+            connection.on("GameStartInfo", (start) => {
+                let message = "";
+                if(start){
+                    message = "O";
+                    $("#indicator").css("color", "#0f0");
+                } else {
+                    message = "X";
+                    $("#indicator").css("color", "#f00");
+                }
+                displayMessage("<span>You are playing as: " + message + "<span>", 2000);
+                   
+            });
+
+            connection.on("AreaClicked", (status) => {
+                displayBoard(status);
+            });
+
+            connection.on("InvalidMove", (message) => {
+                displayMessage("<p>" + message + "<p>", 1000);
+            });
+
+            connection.on("UpdateTurn", (turn) => {
+                if(turn){
+                    $("#indicator").css("color", "#0f0");
+                } else {
+                    $("#indicator").css("color", "#f00");
+                }
+            });
+
+            connection.on("GameWon",(player, winningCombination) => {
+                displayEndMessage(player.split('@@')[0], winningCombination);
+            });
+
+            connection.on("GameDraw",() => {
+                displayEndMessage("None", []);
+            });
+
+            function prepareGame(gameId, status) {
+                $(".box").prop("disabled", false);
+
+                for (let i = 0; i < status.length; i++) {
+                    $("#box" + i).click(() => {
+                        connection.invoke("AreaClicked", gameId, i);                        
+                    });
+                }
+            }
+
+            function displayBoard(status) {
+                if (!end) {                 
+                    for (let i = 0; i < status.length; i++) {
+                        if (status[i] === true) {
+                            $("#box" + i).text("O");
+                        } else if (status[i] === false) {
+                            $("#box" + i).text("X");
+                        }
+                    }
+
+                    if(status.filter(value => value === null).length % 2 === 0){
+                        $("#indicator").text("X");
+                    } else {
+                        $("#indicator").text("O");
+                    }
+                }
+            }
+
+            function displayMessage(message, time) {
+                if(!end && !pause){
+                    pause = true;
+                    $("#alert-box").html(message);
+                    $("#alert-box").css({ display: "block" });
+                    setTimeout(() => {
+                        pause = false;
+                        if(!end){
+                            $("#alert-box").css({ display: "none" });
+                        }
+                    }, time);
+                }
+            }
+
+            function displayEndMessage(player, winningCombination) {
+                if (!end) { 
+                    end = true;
+                    $(".box").prop("disabled", true);
+                    $("#alert-box").html(`
+                        <span>The winner is:</span>
+                        <br />
+                        <b>` + player + `</b>
+                        <br />
+                        <button id="returnButton" class="btn main-btn">
+                            Return
+                        </button>
+                    `);
+
+                    $("#alert-box").css({ display: "block" });
+
+                    winningCombination.forEach((i) => {
+                        $("#box" + i).css("color", "#5f3dc4");
+                    });
+
+                    $("#returnButton").click(() => {
+                            window.location.href = "/Game/Index";
+                    });
+                }
+            }
+
+            function setFontSizeToHeight() {
+                $('.box').each(function () {
+                    let boxHeight = $(this).height() * 0.6;
+                    $(this).css('font-size', boxHeight + 'px');
+                    console.log("Font Set");
+                });
+            }
+            function adjustBoard() {
+                var windowWidth = $(window).width();
+                var windowHeight = $(window).height();
+                var boardSize = Math.min(windowWidth * 0.8, windowHeight * 0.8);
+
+                $("#board").css({
+                    width: boardSize,
+                    height: boardSize,
+                    marginTop: (windowHeight - boardSize) / 4,
+                });
+            }
+
+            $(window).resize(function () {
+                adjustBoard();
+                setFontSizeToHeight();
+            });
+        });
+    </script>
+}
+
+<div id="board" class="board">
+    <div class="cover"></div>
+</div>
+<div id="alert-box" class="alert-box"></div>
+<div id="indicator" class="indicator"></div>

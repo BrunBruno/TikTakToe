@@ -1,0 +1,125 @@
+﻿@media (min-width: 800px) {
+    #createGame {
+        min-height: 80vh;
+    }
+}
+
+#gameListContainer {
+    overflow: auto;
+    max-height: 80vh;
+}
+
+@media (max-width: 576px) {
+    #gameListContainer {
+        max-height: 60vh;
+    }
+}
+
+#gameListContainer::-webkit-scrollbar {
+    display: none;
+}
+
+.card-body h2 {
+    max-width: 70%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    border-bottom: solid 1px #fff;
+}
+@media(max-width: 576px) {
+    .card-body h2 {
+        max-width: 50%;
+    }
+}
+
+.card-body span {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    padding: 4px 8px;
+    border-radius: 4px;
+    color: #aaa;
+}
+
+
+
+.board {
+    position: relative;
+    width: 40%;
+    aspect-ratio: 1/1;
+    background-color: #fff;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1%;
+    margin: auto;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.box {
+    aspect-ratio: 1/1;
+    background-color: #333;
+    text-align: center;
+    user-select: none;
+}
+
+.box:hover {
+    cursor: pointer;
+    background-color: #222;
+}
+
+
+.alert-box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 2rem;
+    border: solid 0.3rem #fff;
+    padding: 1rem 2rem;
+    display: none;
+    max-width: 80%;
+    word-break: break-word;
+    user-select: none;
+}
+@media (max-width: 576px) {
+    .alert-box {
+        font-size: 1rem;
+    }
+}
+
+.alert-box b {
+    color: #9775fa;
+}
+.alert-box p {
+    color: #f00;
+}
+
+.indicator {
+    position: absolute;
+    width: 5vw;
+    aspect-ratio: 1/1;
+    top: 12%;
+    right: 2%;
+    font-size: 2rem;
+    font-family: 'Gloria Hallelujah', cursive;
+    user-select: none;
+}
+
+.cover {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.ranking {
+    user-select: none;
+    overflow: scroll;
+    max-height: 80vh;
+}
+.ranking::-webkit-scrollbar {
+    display: none;
+}

@@ -1,0 +1,30 @@
+X:\Projekty\C# Projects\MVC Project\MVCProject.Application\bin\Debug\net7.0\MVCProject.Application.deps.json
+X:\Projekty\C# Projects\MVC Project\MVCProject.Application\bin\Debug\net7.0\MVCProject.Application.dll
+X:\Projekty\C# Projects\MVC Project\MVCProject.Application\bin\Debug\net7.0\MVCProject.Application.pdb
+X:\Projekty\C# Projects\MVC Project\MVCProject.Application\bin\Debug\net7.0\MVCProject.Domain.dll
+X:\Projekty\C# Projects\MVC Project\MVCProject.Application\bin\Debug\net7.0\MVCProject.Domain.pdb
+X:\Projekty\C# Projects\MVC Project\MVCProject.Application\obj\Debug\net7.0\MVCProject.Application.csproj.AssemblyReference.cache
+X:\Projekty\C# Projects\MVC Project\MVCProject.Application\obj\Debug\net7.0\MVCProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+X:\Projekty\C# Projects\MVC Project\MVCProject.Application\obj\Debug\net7.0\MVCProject.Application.AssemblyInfoInputs.cache
+X:\Projekty\C# Projects\MVC Project\MVCProject.Application\obj\Debug\net7.0\MVCProject.Application.AssemblyInfo.cs
+X:\Projekty\C# Projects\MVC Project\MVCProject.Application\obj\Debug\net7.0\MVCProject.Application.csproj.CoreCompileInputs.cache
+X:\Projekty\C# Projects\MVC Project\MVCProject.Application\obj\Debug\net7.0\MVCProject.Application.csproj.CopyComplete
+X:\Projekty\C# Projects\MVC Project\MVCProject.Application\obj\Debug\net7.0\MVCProject.Application.dll
+X:\Projekty\C# Projects\MVC Project\MVCProject.Application\obj\Debug\net7.0\refint\MVCProject.Application.dll
+X:\Projekty\C# Projects\MVC Project\MVCProject.Application\obj\Debug\net7.0\MVCProject.Application.pdb
+X:\Projekty\C# Projects\MVC Project\MVCProject.Application\obj\Debug\net7.0\ref\MVCProject.Application.dll
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Application\bin\Debug\net7.0\MVCProject.Application.deps.json
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Application\bin\Debug\net7.0\MVCProject.Application.dll
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Application\bin\Debug\net7.0\MVCProject.Application.pdb
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Application\bin\Debug\net7.0\MVCProject.Domain.dll
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Application\bin\Debug\net7.0\MVCProject.Domain.pdb
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Application\obj\Debug\net7.0\MVCProject.Application.csproj.AssemblyReference.cache
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Application\obj\Debug\net7.0\MVCProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Application\obj\Debug\net7.0\MVCProject.Application.AssemblyInfoInputs.cache
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Application\obj\Debug\net7.0\MVCProject.Application.AssemblyInfo.cs
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Application\obj\Debug\net7.0\MVCProject.Application.csproj.CoreCompileInputs.cache
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Application\obj\Debug\net7.0\MVCProje.2A8CB124.Up2Date
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Application\obj\Debug\net7.0\MVCProject.Application.dll
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Application\obj\Debug\net7.0\refint\MVCProject.Application.dll
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Application\obj\Debug\net7.0\MVCProject.Application.pdb
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Application\obj\Debug\net7.0\ref\MVCProject.Application.dll

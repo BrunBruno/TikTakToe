@@ -1,0 +1,22 @@
+﻿@model IEnumerable<MVCProject.Domain.Entities.Game>
+ 
+@foreach (var item in Model) {
+    <div class="card m-3 main-bg">
+        <div class="card-body">
+            <div class="d-flex justify-content-between align-items-center">
+                <h2 class="card-title">@item.Name</h2>
+                <a asp-controller="Game" asp-action="Live" asp-route-id="@item.Id" class="btn light-btn">Join</a>
+            </div>
+            <p class="players">
+                @((item.Player1 != null && !string.IsNullOrEmpty(item.Player1.Name))
+                    ? item.Player1.Name.Split('@')[0] 
+                    : "-")
+                vs
+                @((item.Player2 != null && !string.IsNullOrEmpty(item.Player2.Name))
+                    ? item.Player2.Name.Split('@')[0]
+                    : "-")
+            </p>
+            <span>@item.CreatedAt</span>
+        </div>
+    </div>
+}

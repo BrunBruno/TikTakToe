@@ -1,0 +1,38 @@
+X:\Projekty\C# Projects\MVC Project\MVCProject.Infrastructure\bin\Debug\net7.0\MVCProject.Infrastructure.deps.json
+X:\Projekty\C# Projects\MVC Project\MVCProject.Infrastructure\bin\Debug\net7.0\MVCProject.Infrastructure.runtimeconfig.json
+X:\Projekty\C# Projects\MVC Project\MVCProject.Infrastructure\bin\Debug\net7.0\MVCProject.Infrastructure.dll
+X:\Projekty\C# Projects\MVC Project\MVCProject.Infrastructure\bin\Debug\net7.0\MVCProject.Infrastructure.pdb
+X:\Projekty\C# Projects\MVC Project\MVCProject.Infrastructure\bin\Debug\net7.0\MVCProject.Application.dll
+X:\Projekty\C# Projects\MVC Project\MVCProject.Infrastructure\bin\Debug\net7.0\MVCProject.Domain.dll
+X:\Projekty\C# Projects\MVC Project\MVCProject.Infrastructure\bin\Debug\net7.0\MVCProject.Application.pdb
+X:\Projekty\C# Projects\MVC Project\MVCProject.Infrastructure\bin\Debug\net7.0\MVCProject.Domain.pdb
+X:\Projekty\C# Projects\MVC Project\MVCProject.Infrastructure\obj\Debug\net7.0\MVCProject.Infrastructure.csproj.AssemblyReference.cache
+X:\Projekty\C# Projects\MVC Project\MVCProject.Infrastructure\obj\Debug\net7.0\MVCProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+X:\Projekty\C# Projects\MVC Project\MVCProject.Infrastructure\obj\Debug\net7.0\MVCProject.Infrastructure.AssemblyInfoInputs.cache
+X:\Projekty\C# Projects\MVC Project\MVCProject.Infrastructure\obj\Debug\net7.0\MVCProject.Infrastructure.AssemblyInfo.cs
+X:\Projekty\C# Projects\MVC Project\MVCProject.Infrastructure\obj\Debug\net7.0\MVCProject.Infrastructure.csproj.CoreCompileInputs.cache
+X:\Projekty\C# Projects\MVC Project\MVCProject.Infrastructure\obj\Debug\net7.0\MVCProject.Infrastructure.csproj.CopyComplete
+X:\Projekty\C# Projects\MVC Project\MVCProject.Infrastructure\obj\Debug\net7.0\MVCProject.Infrastructure.dll
+X:\Projekty\C# Projects\MVC Project\MVCProject.Infrastructure\obj\Debug\net7.0\refint\MVCProject.Infrastructure.dll
+X:\Projekty\C# Projects\MVC Project\MVCProject.Infrastructure\obj\Debug\net7.0\MVCProject.Infrastructure.pdb
+X:\Projekty\C# Projects\MVC Project\MVCProject.Infrastructure\obj\Debug\net7.0\MVCProject.Infrastructure.genruntimeconfig.cache
+X:\Projekty\C# Projects\MVC Project\MVCProject.Infrastructure\obj\Debug\net7.0\ref\MVCProject.Infrastructure.dll
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Infrastructure\bin\Debug\net7.0\MVCProject.Infrastructure.deps.json
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Infrastructure\bin\Debug\net7.0\MVCProject.Infrastructure.runtimeconfig.json
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Infrastructure\bin\Debug\net7.0\MVCProject.Infrastructure.dll
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Infrastructure\bin\Debug\net7.0\MVCProject.Infrastructure.pdb
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Infrastructure\bin\Debug\net7.0\MVCProject.Application.dll
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Infrastructure\bin\Debug\net7.0\MVCProject.Domain.dll
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Infrastructure\bin\Debug\net7.0\MVCProject.Application.pdb
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Infrastructure\bin\Debug\net7.0\MVCProject.Domain.pdb
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Infrastructure\obj\Debug\net7.0\MVCProject.Infrastructure.csproj.AssemblyReference.cache
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Infrastructure\obj\Debug\net7.0\MVCProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Infrastructure\obj\Debug\net7.0\MVCProject.Infrastructure.AssemblyInfoInputs.cache
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Infrastructure\obj\Debug\net7.0\MVCProject.Infrastructure.AssemblyInfo.cs
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Infrastructure\obj\Debug\net7.0\MVCProject.Infrastructure.csproj.CoreCompileInputs.cache
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Infrastructure\obj\Debug\net7.0\MVCProje.2190BDD2.Up2Date
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Infrastructure\obj\Debug\net7.0\MVCProject.Infrastructure.dll
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Infrastructure\obj\Debug\net7.0\refint\MVCProject.Infrastructure.dll
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Infrastructure\obj\Debug\net7.0\MVCProject.Infrastructure.pdb
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Infrastructure\obj\Debug\net7.0\MVCProject.Infrastructure.genruntimeconfig.cache
+X:\Projekty\C# Projects\MVC Project - TikTakToe\MVCProject.Infrastructure\obj\Debug\net7.0\ref\MVCProject.Infrastructure.dll

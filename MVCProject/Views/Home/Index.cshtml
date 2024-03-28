@@ -1,0 +1,52 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<link rel="stylesheet" href="~/css/hero.css" />
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-6 col-md-12 mx-auto">
+            <div class="hero text-center">
+                <h1 class="hero-title">
+                    Welcome to TikTacToe Game
+                </h1>
+
+                <br />
+
+                <div class="d-flex justify-content-evenly">
+                    <a asp-area="" asp-controller="Game" asp-action="Index" class="btn main-btn">Play Now</a>
+                    @if (SignInManager.IsSignedIn(User)) {
+                        <a asp-area="Identity" asp-page="/Account/Manage/Index" class="btn light-btn">Your Account</a>
+                    } else {
+                        <a asp-area="Identity" asp-page="/Account/Register" class="btn light-btn">Get Started</a>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $(window).on("load resize", function () {
+            centerContainer();
+        });
+
+        function centerContainer() {
+            var windowHeight = $(window).height();
+            var containerHeight = $(".container").outerHeight();
+            var marginTop = (windowHeight - containerHeight) / 5;
+
+            $(".container").css("margin-top", marginTop + "px");
+            $(".container").fadeIn(500);
+        }
+    });
+</script>

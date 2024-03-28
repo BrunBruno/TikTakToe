@@ -1,0 +1,837 @@
+{
+  "Files": [
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MVCProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MVCProject.bundle.scp.css"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\css\\game.css",
+      "PackagePath": "staticwebassets\\css\\game.css"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\css\\hero.css",
+      "PackagePath": "staticwebassets\\css\\hero.css"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\css\\identity_overrite.css",
+      "PackagePath": "staticwebassets\\css\\identity_overrite.css"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\README.md",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\README.md"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\browser\\signalr.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\browser\\signalr.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\browser\\signalr.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\browser\\signalr.min.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\AbortController.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\AbortController.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\AbortController.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\AbortController.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\Errors.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\Errors.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\Errors.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\Errors.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\HandshakeProtocol.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\HandshakeProtocol.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\HandshakeProtocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\HandshakeProtocol.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\HttpClient.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\HttpClient.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\HttpClient.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\HttpClient.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\HttpConnection.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\HttpConnection.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\HttpConnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\HttpConnection.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\HubConnection.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\HubConnection.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\HubConnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\HubConnection.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\HubConnectionBuilder.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\HubConnectionBuilder.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\HubConnectionBuilder.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\HubConnectionBuilder.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\IConnection.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\IConnection.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\IConnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\IConnection.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\IHttpConnectionOptions.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\IHttpConnectionOptions.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\IHttpConnectionOptions.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\IHttpConnectionOptions.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\IHubProtocol.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\IHubProtocol.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\IHubProtocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\IHubProtocol.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\ILogger.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\ILogger.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\ILogger.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\ILogger.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\ITransport.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\ITransport.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\ITransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\ITransport.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\JsonHubProtocol.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\JsonHubProtocol.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\JsonHubProtocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\JsonHubProtocol.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\Loggers.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\Loggers.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\Loggers.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\Loggers.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\LongPollingTransport.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\LongPollingTransport.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\LongPollingTransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\LongPollingTransport.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\ServerSentEventsTransport.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\ServerSentEventsTransport.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\ServerSentEventsTransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\ServerSentEventsTransport.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\Stream.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\Stream.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\Stream.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\Stream.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\TextMessageFormat.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\TextMessageFormat.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\TextMessageFormat.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\TextMessageFormat.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\Utils.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\Utils.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\Utils.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\Utils.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\WebSocketTransport.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\WebSocketTransport.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\WebSocketTransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\WebSocketTransport.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\browser-index.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\browser-index.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\browser-index.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\browser-index.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\index.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\index.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\cjs\\index.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\cjs\\index.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\AbortController.d.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\AbortController.d.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\AbortController.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\AbortController.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\AbortController.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\AbortController.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\Errors.d.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\Errors.d.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\Errors.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\Errors.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\Errors.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\Errors.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\HandshakeProtocol.d.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\HandshakeProtocol.d.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\HandshakeProtocol.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\HandshakeProtocol.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\HandshakeProtocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\HandshakeProtocol.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\HttpClient.d.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\HttpClient.d.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\HttpClient.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\HttpClient.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\HttpClient.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\HttpClient.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\HttpConnection.d.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\HttpConnection.d.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\HttpConnection.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\HttpConnection.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\HttpConnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\HttpConnection.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\HubConnection.d.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\HubConnection.d.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\HubConnection.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\HubConnection.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\HubConnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\HubConnection.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\HubConnectionBuilder.d.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\HubConnectionBuilder.d.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\HubConnectionBuilder.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\HubConnectionBuilder.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\HubConnectionBuilder.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\HubConnectionBuilder.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\IConnection.d.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\IConnection.d.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\IConnection.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\IConnection.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\IConnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\IConnection.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\IHttpConnectionOptions.d.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\IHttpConnectionOptions.d.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\IHttpConnectionOptions.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\IHttpConnectionOptions.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\IHttpConnectionOptions.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\IHttpConnectionOptions.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\IHubProtocol.d.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\IHubProtocol.d.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\IHubProtocol.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\IHubProtocol.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\IHubProtocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\IHubProtocol.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\ILogger.d.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\ILogger.d.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\ILogger.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\ILogger.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\ILogger.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\ILogger.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\ITransport.d.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\ITransport.d.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\ITransport.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\ITransport.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\ITransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\ITransport.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\JsonHubProtocol.d.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\JsonHubProtocol.d.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\JsonHubProtocol.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\JsonHubProtocol.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\JsonHubProtocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\JsonHubProtocol.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\Loggers.d.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\Loggers.d.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\Loggers.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\Loggers.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\Loggers.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\Loggers.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\LongPollingTransport.d.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\LongPollingTransport.d.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\LongPollingTransport.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\LongPollingTransport.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\LongPollingTransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\LongPollingTransport.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\ServerSentEventsTransport.d.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\ServerSentEventsTransport.d.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\ServerSentEventsTransport.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\ServerSentEventsTransport.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\ServerSentEventsTransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\ServerSentEventsTransport.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\Stream.d.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\Stream.d.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\Stream.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\Stream.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\Stream.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\Stream.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\TextMessageFormat.d.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\TextMessageFormat.d.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\TextMessageFormat.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\TextMessageFormat.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\TextMessageFormat.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\TextMessageFormat.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\Utils.d.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\Utils.d.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\Utils.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\Utils.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\Utils.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\Utils.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\WebSocketTransport.d.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\WebSocketTransport.d.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\WebSocketTransport.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\WebSocketTransport.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\WebSocketTransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\WebSocketTransport.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\browser-index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\browser-index.d.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\browser-index.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\browser-index.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\browser-index.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\browser-index.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\index.d.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\index.js",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\index.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\dist\\esm\\index.js.map",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\dist\\esm\\index.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\package.json",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\package.json"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\src\\AbortController.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\src\\AbortController.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\src\\Errors.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\src\\Errors.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\src\\HandshakeProtocol.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\src\\HandshakeProtocol.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\src\\HttpClient.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\src\\HttpClient.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\src\\HttpConnection.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\src\\HttpConnection.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\src\\HubConnection.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\src\\HubConnection.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\src\\HubConnectionBuilder.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\src\\HubConnectionBuilder.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\src\\IConnection.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\src\\IConnection.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\src\\IHttpConnectionOptions.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\src\\IHttpConnectionOptions.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\src\\IHubProtocol.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\src\\IHubProtocol.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\src\\ILogger.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\src\\ILogger.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\src\\ITransport.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\src\\ITransport.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\src\\JsonHubProtocol.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\src\\JsonHubProtocol.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\src\\Loggers.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\src\\Loggers.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\src\\LongPollingTransport.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\src\\LongPollingTransport.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\src\\ServerSentEventsTransport.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\src\\ServerSentEventsTransport.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\src\\Stream.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\src\\Stream.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\src\\TextMessageFormat.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\src\\TextMessageFormat.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\src\\Utils.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\src\\Utils.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\src\\WebSocketTransport.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\src\\WebSocketTransport.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\src\\browser-index.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\src\\browser-index.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\src\\index.ts",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\src\\index.ts"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\aspnet\\signalr\\src\\third-party-notices.txt",
+      "PackagePath": "staticwebassets\\lib\\aspnet\\signalr\\src\\third-party-notices.txt"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "X:\\Projekty\\C# Projects\\MVC Project - TikTakToe\\MVCProject\\wwwroot\\lib\\signalr\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\signalr.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MVCProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MVCProject.props",
+      "PackagePath": "build\\MVCProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MVCProject.props",
+      "PackagePath": "buildMultiTargeting\\MVCProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MVCProject.props",
+      "PackagePath": "buildTransitive\\MVCProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

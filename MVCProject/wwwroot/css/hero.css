@@ -1,0 +1,17 @@
+.hero {
+    text-shadow: 0.1rem 0.1rem #000;
+}
+
+h1.hero-title {
+    margin-bottom: 2rem;
+    padding: 1.2rem 1.6rem;
+    text-align: center;
+    font-size: 2.2rem;
+    border: 0.5rem solid #0000;
+    background: 
+        conic-gradient(from 90deg at top 0.5rem left 0.5rem, #0000 90deg, #f8f9fa 0) 0 0 / 2rem 2rem border-box no-repeat,
+        conic-gradient(from 180deg at top 0.5rem right 0.5rem, #0000 90deg, #f8f9fa 0) 100% 0 / 2rem 2rem border-box no-repeat,
+        conic-gradient(from 0deg at bottom 0.5rem left 0.5rem, #0000 90deg, #f8f9fa 0) 0 100% / 2rem 2rem border-box no-repeat,
+        conic-gradient(from -90deg at bottom 0.5rem right 0.5rem, #0000 90deg, #f8f9fa 0) 100% 100% / 2rem 2rem border-box no-repeat;
+}
+

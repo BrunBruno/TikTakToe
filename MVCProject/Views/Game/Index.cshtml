@@ -1,0 +1,53 @@
+﻿@model IEnumerable<MVCProject.Domain.Entities.Game>
+
+@{
+    ViewData["Title"] = "GameHub";
+}
+
+<link rel="stylesheet" href="~/css/game.css" />
+
+<div class="container row">
+    <div id="createGame" class="col-md-6 d-flex flex-column justify-content-center align-items-center mb-4">
+        <h1>Welcome</h1>
+        <a asp-action="Create" class="btn main-btn">Create New</a>
+    </div>
+
+    <div id="gameListContainer" class="col-md-6 p-0 m-0">
+      
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/lib/aspnet/signalr/dist/browser/signalr.js"></script>
+    <script src="~/lib/aspnet/signalr/dist/browser/signalr.min.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            const connection = new signalR.HubConnectionBuilder()
+                .withUrl("/gamehub")
+                .build();
+
+            connection.start();
+
+            connection.on("UpdateGames", () => {
+                refreshGameList();
+            });
+
+            function refreshGameList() {
+                $.ajax({
+                    url: "/Game/GetAllGames",
+                    type: "GET",
+                    success: function (data) {
+                        $("#gameListContainer").html(data);
+                    },
+                    error: function (xhr, status, error) {
+                        console.error(error);
+                    }
+                });
+            }
+
+            refreshGameList();
+        });
+    </script>
+}
